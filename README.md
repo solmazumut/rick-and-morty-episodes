@@ -2,8 +2,8 @@
 
 
 Episodes
-![]episodes.PNG
+![](episodes.PNG)
 
 
 Episode
-![]Episode.PNG
+![](Episode.PNG)
